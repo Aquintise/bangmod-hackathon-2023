@@ -14,6 +14,7 @@
     "vite-preact-ts": "*"
   },
   "devDependencies": {
-    "tailwind": "*"
+    "tailwind": "*",
+    "typescript": "^4.8.4"
   }
 }
