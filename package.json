@@ -22,7 +22,8 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "rimraf": "^3.0.2",
-    "turbo": "latest"
+    "turbo": "latest",
+    "typescript": "^4.8.4"
   },
   "engines": {
     "npm": "please-use-yarn",
